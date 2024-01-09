@@ -1,0 +1,39 @@
+FD6011 btn
+
+A3A3A3 text sec
+000 pri text
+F79F1F sec bg
+EEEFF0 pri bg
+FD9460 mobile hero card bg
+
+pti.
+
+Search Audiobook
+
+MENU
+Home 
+Details
+My Favorites
+Profile
+Log In/Sing Up
+
+Deliver Food To Your Door Step|
+Authentic Food, Quick Service, Fast Delivery
+
+Popular
+
+Recommended
+
+AddMore
+
+Enter Your Email
+
+Subscribe
+
+CopyrightcTripp.All Right Reserved
+
+
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap"
+/>
